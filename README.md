@@ -4,7 +4,7 @@ Design proposal for HTRC Portal.
 
 # Requirements
 
-* NPM
+* [NPM](https://www.npmjs.com)
 
 # How To Run
 
