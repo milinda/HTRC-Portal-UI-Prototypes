@@ -8,5 +8,5 @@ Design proposal for HTRC Portal.
 
 # How To Run
 
-* Run command '''npm install''' to install dependencies
-* Run command '''python -m SimpleHTTPServer''' to serve files on port 8000
+* Run command ```npm install``` to install dependencies
+* Run command ```python -m SimpleHTTPServer``` to serve files on port 8000
